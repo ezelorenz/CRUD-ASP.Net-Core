@@ -1,0 +1,17 @@
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.BLL.deps.json
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.BLL.dll
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.BLL.pdb
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.csproj.AssemblyReference.cache
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.AssemblyInfoInputs.cache
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.AssemblyInfo.cs
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.csproj.CoreCompileInputs.cache
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.dll
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\refint\ProyectoCrud.BLL.dll
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.pdb
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ref\ProyectoCrud.BLL.dll
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.DAL.dll
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.Models.dll
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.DAL.pdb
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\bin\Debug\net6.0\ProyectoCrud.Models.pdb
+D:\Repositorios\SolutionCRUD\ProyectoCrud.BLL\obj\Debug\net6.0\ProyectoCrud.BLL.csproj.CopyComplete
